@@ -1,0 +1,134 @@
+{
+  "banner": "5 tretmana Belly Revolution masaže uz fantastičnih 50% popusta ako zakazete 8. ili 9. Marta!",
+  "mainPage": {
+    "cert": "Sertifikati",
+    "certSub": "Dokazi o stručnosti i posvećenosti",
+    "accessBarsCert": "Ovo potvrđuje uspješno završavanje Access Bars kursa kod licenciranog Bars fasilitatora.",
+    "foundationCert": "Ovo potvrđuje uspješno završavanje kursa The Foundation kod sertifikovanog Access Consciousness fasilitatora.",
+    "revolutionBellyCert": "Postigao/la je nivo zahtjevan našim standardima kvaliteta, demonstrirajući svoje tehničko znanje, kao i sposobnost da efikasno i etički primjenjuje predavanu metodu.",
+    "massagesForBetter": "Masaže za boljitak tijela i zivota",
+    "offers": "Usluge koje nudimo",
+    "accessBars": "Preporučljiva je posebno ljudima koji su u kontinuiranom stresu – menadžerima, studentima, đacima, sportistima, ali i maloj djeci… Kao i svima koji žele promjenu u bilo kojem segmentu života.",
+    "bellyRevolution": "Drevna metoda koja pruža oslobađanje od potisnutih emocija i tereta te donosi osjećaj blagostanja i lakoće, kao da sve ponovo teče kako treba. Takođe, pomaže u vraćanju pokreta i ponovnoj aktivaciji sistema, a kao šlag na tortu, smanjuje obim struka i stomaka."
+  },
+  "menu": {
+    "schedule": "Zakažite termin"
+  },
+  "mainBanner": {
+    "accessBars": "Oslobodite se misli, ideja, stavova, odluka i uvjerenja koji su vas zaglavili u nekom dijelu života iz kojeg ne možete ni naprijed ni nazad…",
+    "bellyRevolution": "Unikatna i lagana masaža koja poštuje tijelo i kombinuje različite protokole donijeće vam emocionalno oslobođenje i masažu za mršavljenje."
+  },
+  "moreButton": "Saznajte više",
+  "testimonials": {
+    "title": "Procitajte sta su klijenti rekli o nama<",
+    "subtitle": "Recenzije"
+  },
+  "cta": {
+    "title": "Zakažite svoj termin već danas!",
+    "button": "Zakazivanje termina"
+  },
+  "newsletter": {
+    "toastSuccess": "Uspešno ste se prijavili, provjerite email, uskoro Vam stize vodic.",
+    "toastErrorDupe": "Email već postoji. Probajte drugi.",
+    "toastError": "Došlo je do greške. Pokušajte opet.",
+    "title": "6 koraka do unutrašnjeg mira",
+    "subTitle": "Prijavite se i dobićete kratki vodič 'Kako osloboditi telo i um od stresa'",
+    "email": "Email adresa",
+    "button": "Prijavite se"
+  },
+  "footer": {
+    "text": "Inner Balance pruža potpunu uslugu, koja kombinuje različite vrste masaža i dodirivanje energetskih tačaka, što će Vam pomoći u otklanjanju svih prepreka u životu.",
+    "offer": "Nudimo",
+    "follow": "Zapratite nas",
+    "contact": "Kontaktirajte nas"
+  },
+  "bars": {
+    "descriptFirst": "Access Bars je tehnika energetske terapije koja potiče iz Access Consciousness sistema, koji je osmislio Gary Douglas. Ova tehnika se zasniva na laganom dodiru 32 tačke na glavi, koje su povezane s različitim aspektima života, kao što su novac, kreativnost, kontrola, radost, tuga, komunikacija, itd.",
+    "descriptSecond": "Cilj Access Bars tretmana je oslobađanje blokiranih energija i ograničavajućih uvjerenja, što može dovesti do veće opuštenosti, boljeg sna, smanjenja stresa i veće mentalne jasnoće. Ljudi koji praktikuju ovu tehniku vjeruju da ona pomaže u oslobađanju negativnih misli i emocija koje nesvjesno nosimo.",
+    "title": "Otkrijte moć Access Bars tehnike",
+    "subtitle": "Nežne, ali duboko transformativne metode koja pomaže uoslobađanju stresa, anksioznosti i negativnih uverenja. Ovaenergetska terapija deluje kroz lagani dodir 32 tačke na glavi,omogućavajući vašem umu i telu da se oslobode nagomilanihblokada i ograničenja. Rezultat? Veći unutrašnji mir, bolji san,poboljšana koncentracija i osećaj lakoće u svakodnevnom životu.Bilo da tražite dublju opuštenost, kreativni podsticaj iliemotivnu ravnotežu, Access Bars je tehnika koja može donetipromene na suptilan, ali moćan način. Iskusite reset vašeg uma iotkrijte koliko lakoće može postojati u vašem životu!",
+    "intended": "Kome je Bars tehnika namjenjena"
+  },
+  "belly": {
+    "descriptFirst": "Belly Revolution masaža je nežna i neinvazivna tehnika fokusirana na područje stomaka, koja kombinuje različite metode poput glađenja, opuštanja, modelovanja, limfne drenaže i jedinstvenih energetskih procesa.",
+    "descriptSecond": "Cilj Belly Revolution masaže je oslobađanje od stagnacije i reaktivacija unutrašnje energije, što doprinosi opštem opuštanju tela.",
+    "title": "Otkrijte moć Belly Revolution masaže",
+    "subtitle": "Nežna, ali moćna terapeutska tehnika koja pomaže u oslobađanju napetosti, emocionalnih blokada i energetskih zastoja u predelu stomaka. Belly Revolution masaža kombinuje blage, ritmične pokrete sa dubokom relaksacijom, podstičući detoksikaciju tela, poboljšanje varenja i emocionalnu ravnotežu. Ova metoda ne samo da revitalizuje unutrašnje organe, već i pomaže u oslobađanju potisnutih emocija, donoseći osećaj lakoće, harmonije i povezanosti sa sopstvenim telom. Idealna je za one koji žele da poboljšaju protok energije, umanje stres i pronađu dublju unutrašnju stabilnost. Iskusite snagu dodira i dopustite svom telu da diše slobodno!",
+    "intended": "Kome je Belly masaža namjenjena"
+  },
+  "pageHeader": "Iskusite unutrašnju harmoniju",
+  "customBarsList": {
+    "first": "Osećaju stres, anksioznost ili mentalnu iscrpljenost – Access Bars može pomoći u opuštanju i smanjenju stresa.",
+    "second": "Imaju problem sa snom – Mnogi ljudi prijavljuju da bolje spavaju nakon tretmana.",
+    "third": "Traže emocionalno olakšanje – Pomaže u oslobađanju potisnutih emocija i ograničavajućih uverenja.",
+    "fourth": "Imaju problema s fokusom i kreativnošću – Može poboljšati mentalnu jasnoću i podstaći kreativno razmišljanje.",
+    "fifth": "Žele da poboljšaju odnose – Oslobađanjem negativnih obrazaca, ljudi mogu lakše komunicirati i povezivati se s drugima.",
+    "sixth": "Su otvoreni za alternativne metode isceljenja – Idealno za one koji vole energetske terapije i lični razvoj.",
+    "seventh": "Deca i tinejdžeri – Može pomoći u smanjenju anksioznosti, poboljšanju koncentracije i lakšem nošenju sa školskim izazovima."
+  },
+  "customBellyList": {
+    "first": "Osobe pod stresom i anksioznošću – Pomaže u oslobađanju nagomilanih emocija i vraćanju unutrašnjeg mira.",
+    "second": "One koji imaju probleme sa varenjem – Blagi pokreti poboljšavaju funkciju digestivnog sistema i podstiču detoksikaciju.",
+    "third": "Ljude koji osećaju energetsku blokadu – Pomaže u otklanjanju zastoja i vraćanju prirodnog toka energije kroz telo.",
+    "fourth": "Žene koje žele dublju povezanost sa svojim telom – Posebno korisna za balans hormona i osećaj lakoće.",
+    "fifth": "One koji žele emotivno oslobađanje – Stomak je često mesto gde skladištimo potisnute emocije, a ova masaža pomaže u njihovom otpuštanju.",
+    "sixth": "Za one koji osećaju težinu i blokade – Pomaže u otpuštanju napetosti i energetskih zastoja, podstičući bolju cirkulaciju i balans tela.",
+    "seventh": "Za one koji žele dublju relaksaciju – Smanjuje stres, poboljšava san i harmonizuje hormone, donoseći telu osećaj lakoće i ravnoteže."
+  },
+  "barsFaqs": {
+    "title": "Često Postavljana Pitanja",
+    "firstQuestion": "Koliko dugo traje Access Bars tretman?",
+    "firstAnswer": "Tipičan Access Bars tretman traje između 60 i 90 minuta. Iskustvo je duboko opuštajuće, a mnogi ljudi prijavljuju osećaj lakoće i smirenosti nakon tretmana.",
+    "secondQuestion": "Trebam li da se pripremim za Access Bars tretman?",
+    "secondAnswer": "Nije potrebna posebna priprema. Preporučuje se da dođete u udobnoj odeći i otvorenog uma, spremni za opuštanje i primanje benefita tretmana.",
+    "thirdQuestion": "Koliko dugo unapred treba zakazati termin?",
+    "thirdAnswer": "Preporučuje se da termin zakažete najmanje nedelju dana unapred kako biste osigurali dostupnost."
+  },
+  "bellyFaqs": {
+    "firstQuestion": "Koliko dugo traje Belly Revolution masaža",
+    "firstAnswer": "Belly Revolution masaža traje oko 60 minuta, ali trajanje može varirati u zavisnosti od individualnih potreba klijenta i dinamike tretmana.",
+    "secondQuestion": "Trebam li da se pripremim za Belly Revolution masažu?",
+    "secondAnswer": "Nije potrebna posebna priprema za Belly Revolution masažu. Preporučuje se da dođete u udobnoj odeći i da ne jedete teške obroke neposredno pre tretmana kako biste se osećali što prijatnije.",
+    "thirdQuestion": "Koliko dugo unapred treba zakazati termin?",
+    "thirdAnswer": "Preporučuje se da termin zakažete najmanje nedelju dana unapred kako biste osigurali dostupnost."
+  },
+  "aboutComp": {
+    "title": "O Praktikantu",
+    "bellyDescr": "Dijana Tesla je sertifikovani Belly Revolution praktičar sa višegodišnjim iskustvom u energetskoj terapiji. Njena misija je da pomogne ljudima da oslobode napetost, poboljšaju protok energije i postignu unutrašnju ravnotežu kroz ovu transformativnu tehniku.",
+    "barsDescr": "Dijana Tesla je sertifikovani Access Bars praktičar sa višegodišnjim iskustvom u energetskoj terapiji. Njena misija je da pomogne ljudima da pronađu unutrašnji mir, balans i oslobođenje od stresa kroz ovu transformativnu tehniku.",
+    "testTextBelly": "Metabolizam je proradio...stomak vise nije stegnut i nadut...Radujem se sledecoj masazi.",
+    "testTextBars": "Mirnije spavam i manje sam napeta. Vidimo se uskoro",
+    "moreTest": "Pročitajte više recenzija"
+  },
+  "contact": {
+    "title": "Zakažite termin",
+    "text": "Podnesite zahtjev za termin i neko će Vam se javiti da se dogovorite oko detalja.",
+    "contactForm": {
+      "toastSuccess": "Uspešno poslata poruka, neko će Vam se ubrzo javiti.",
+      "toastError": "Došlo je do greške pri slanju poruke. Pokušajte ponovo.",
+      "name": "Ime",
+      "phoneNumber": "Broj telefona",
+      "type": "Vrsta masaže",
+      "message": "Želite li nesto da dodate?",
+      "button": "Zakažite"
+    },
+    "terminPicker": {
+      "title": "Izaberite periode za zakazivanje termina",
+      "subtitleFirst": "Zakažite paket od 5 Belly Revolution tretmana 8. ili 9. Marta i dobijate 50% popusta!",
+      "subtitleSecond": "termin moze biti i tokom drugih dana/mjeseci, samo je bitno da je dan zakazivanja 8. ili 9. Marta"
+    }
+  },
+  "fullGuide": {
+    "title": "Upao si preko reda",
+    "subtitle": "Brzo ti šaljem i ostale, samo da ih ispišem. Pogledaj u inbox za koju minutu.",
+    "subtitleSecond": {
+      "firstPart": "Do tad možeš pogledati ostatak",
+      "link": "sajta",
+      "secondPart": "bićeš preusmjeren/a za"
+    }
+  },
+  "cookies": {
+    "text": "Ova web stranica koristi kolačiće kako bi vam pružila bolje korisničko iskustvo.",
+    "button": "Prihvatam"
+  }
+}

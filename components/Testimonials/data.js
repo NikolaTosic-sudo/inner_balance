@@ -1,0 +1,58 @@
+export const testimonials = [
+  {
+    id: 0,
+    name: 'Test',
+    message: 'test',
+    image: '/img/bars_test_1.jpeg',
+    service: 'Access Bars',
+  },
+  {
+    id: 1,
+    name: 'Test 2',
+    message: 'test 2',
+    image: '/img/bars_test_2.jpeg',
+    service: 'Access Bars',
+  },
+  {
+    id: 2,
+    name: 'Test 3',
+    message: 'test 3',
+    image: '/img/belly_test_1.jpeg',
+    service: 'Belly Revolution',
+  },
+  {
+    id: 3,
+    name: 'Test 3',
+    message: 'test 3',
+    image: '/img/bars_test_3.jpeg',
+    service: 'Access Bars',
+  },
+  {
+    id: 4,
+    name: 'Test 3',
+    message: 'test 3',
+    image: '/img/bars_test_4.jpeg',
+    service: 'Access Bars',
+  },
+  {
+    id: 5,
+    name: 'Test 3',
+    message: 'test 3',
+    image: '/img/belly_test_2.jpeg',
+    service: 'Belly Revolution',
+  },
+  {
+    id: 6,
+    name: 'Test 3',
+    message: 'test 3',
+    image: '/img/bars_test_5.jpeg',
+    service: 'Access Bars',
+  },
+  {
+    id: 7,
+    name: 'Test 3',
+    message: 'test 3',
+    image: '/img/bars_test_6.jpeg',
+    service: 'Access Bars',
+  },
+];

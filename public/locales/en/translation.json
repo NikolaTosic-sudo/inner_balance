@@ -1,0 +1,134 @@
+{
+  "banner": "Only on March 8th and 9th, book a package of 5 treatments with a fantastic 50% discount! Schedule your appointment today!",
+  "mainPage": {
+    "cert": "Certificates",
+    "certSub": "Proof of expertise and dedication.",
+    "accessBarsCert": "This confirms the successful completion of the Access Bars course with a licensed Bars facilitator.",
+    "foundationCert": "This confirms the successful completion of The Foundation course with a certified Access Consciousness facilitator.",
+    "revolutionBellyCert": "He/She has achieved a level that meets our quality standards, demonstrating technical knowledge as well as the ability to efficiently and ethically apply the taught method.",
+    "massagesForBetter": "Massages for the improvement of the body and life",
+    "offers": "Services we offer",
+    "accessBars": "It is especially recommended for people who are under constant stress – managers, students, pupils, athletes, as well as young children… and for anyone who wants a change in any aspect of their life.",
+    "bellyRevolution": "An ancient method that provides release from suppressed emotions and burdens, bringing a sense of well-being and ease, as if everything is flowing as it should. It also helps restore movement and reactivate the system, and as a cherry on top, it reduces waist and stomach size."
+  },
+  "menu": {
+    "schedule": "Schedule an appointment"
+  },
+  "mainBanner": {
+    "accessBars": "Free yourself from thoughts, ideas, attitudes, decisions, and beliefs that have kept you stuck in a part of life where you can neither move forward nor backward…",
+    "bellyRevolution": "A unique and gentle massage that respects the body and combines different protocols will bring you emotional release and slimming massage benefits."
+  },
+  "moreButton": "Learn more",
+  "testimonials": {
+    "title": "Read what our clients have said about us",
+    "subtitle": "Reviews"
+  },
+  "cta": {
+    "title": "Schedule your appointment today!",
+    "button": "Book an appointment"
+  },
+  "newsletter": {
+    "toastSuccess": "You have successfully signed up, check your email, your guide will arrive soon.",
+    "toastErrorDupe": "Email already exists. Try another one.",
+    "toastError": "An error occurred. Please try again.",
+    "title": "6 Steps to Inner Balance",
+    "subTitle": "Sign up and receive a short guide 'How to Free Your Body and Mind from Stress'",
+    "email": "Email address",
+    "button": "Sign up"
+  },
+  "footer": {
+    "text": "Inner Balance provides a complete service that combines different types of massages and energy point stimulation, helping you remove all obstacles in life.",
+    "offer": "We offer",
+    "follow": "Follow us",
+    "contact": "Contact us"
+  },
+  "bars": {
+    "descriptFirst": "Access Bars is an energy therapy technique originating from the Access Consciousness system, designed by Gary Douglas. This technique is based on gently touching 32 points on the head, which are connected to various aspects of life, such as money, creativity, control, joy, sadness, communication, etc.",
+    "descriptSecond": "The goal of Access Bars treatments is to release blocked energies and limiting beliefs, which can lead to greater relaxation, better sleep, reduced stress, and increased mental clarity. People who practice this technique believe it helps release negative thoughts and emotions that we unconsciously carry.",
+    "title": "Discover the power of the Access Bars technique",
+    "subtitle": "A gentle, yet deeply transformative method that helps release stress, anxiety, and negative beliefs. This energy therapy works through the light touch of 32 points on the head, allowing your mind and body to release accumulated blockages and limitations. The result? Greater inner peace, better sleep, improved concentration, and a sense of ease in daily life. Whether you're seeking deeper relaxation, creative stimulation, or emotional balance, Access Bars is a technique that can bring about subtle but powerful changes. Experience a reset of your mind and discover how much ease can exist in your life!",
+    "intended": "Who is the Bars technique intended for?"
+  },
+  "belly": {
+    "descriptFirst": "Belly Revolution massage is a gentle and non-invasive technique focused on the stomach area, combining different methods such as smoothing, relaxation, shaping, lymphatic drainage, and unique energy processes.",
+    "descriptSecond": "The goal of Belly Revolution massage is to release stagnation and reactivate internal energy, contributing to overall relaxation of the body.",
+    "title": "Discover the power of Belly Revolution massage",
+    "subtitle": "A gentle, yet powerful therapeutic technique that helps release tension, emotional blockages, and energy stagnation in the stomach area. Belly Revolution massage combines gentle, rhythmic movements with deep relaxation, stimulating detoxification, improving digestion, and emotional balance. This method not only revitalizes internal organs but also helps release suppressed emotions, bringing a sense of ease, harmony, and connection with your own body. It is ideal for those seeking to improve energy flow, reduce stress, and find deeper inner stability. Experience the power of touch and let your body breathe freely!",
+    "intended": "Who is the Belly massage intended for?"
+  },
+  "pageHeader": "Experience inner harmony",
+  "customBarsList": {
+    "first": "Feel stress, anxiety, or mental exhaustion – Access Bars can help with relaxation and stress reduction.",
+    "second": "Have sleep problems – Many people report better sleep after treatments.",
+    "third": "Seek emotional relief – Helps in releasing suppressed emotions and limiting beliefs.",
+    "fourth": "Have problems with focus and creativity – Can improve mental clarity and stimulate creative thinking.",
+    "fifth": "Want to improve relationships – By releasing negative patterns, people can communicate and connect with others more easily.",
+    "sixth": "Are open to alternative healing methods – Ideal for those who enjoy energy therapies and personal development.",
+    "seventh": "Children and teenagers – Can help reduce anxiety, improve concentration, and better cope with school challenges."
+  },
+  "customBellyList": {
+    "first": "People under stress and anxiety – Helps in releasing accumulated emotions and restoring inner peace.",
+    "second": "Those who have digestive issues – Gentle movements improve digestive system function and promote detoxification.",
+    "third": "People who feel energy blockages – Helps remove stagnation and restore the natural flow of energy through the body.",
+    "fourth": "Women who want a deeper connection with their body – Especially useful for hormone balance and a sense of lightness.",
+    "fifth": "Those who seek emotional release – The stomach is often where we store suppressed emotions, and this massage helps release them.",
+    "sixth": "For those who feel heaviness and blockages – Helps release tension and energy stagnation, encouraging better circulation and body balance.",
+    "seventh": "For those who want deeper relaxation – Reduces stress, improves sleep, and harmonizes hormones, bringing a sense of ease and balance to the body."
+  },
+  "barsFaqs": {
+    "title": "Frequently Asked Questions",
+    "firstQuestion": "How long does an Access Bars treatment last?",
+    "firstAnswer": "A typical Access Bars treatment lasts between 60 and 90 minutes. The experience is deeply relaxing, and many people report a sense of ease and calmness after the treatment.",
+    "secondQuestion": "Do I need to prepare for an Access Bars treatment?",
+    "secondAnswer": "No special preparation is required. It is recommended to come in comfortable clothing and with an open mind, ready to relax and receive the benefits of the treatment.",
+    "thirdQuestion": "How far in advance should I schedule my appointment?",
+    "thirdAnswer": "It is recommended to schedule your appointment at least one week in advance to ensure availability."
+  },
+  "bellyFaqs": {
+    "firstQuestion": "How long does the Belly Revolution massage last?",
+    "firstAnswer": "Belly Revolution massage lasts about 60 minutes, but the duration may vary depending on the individual needs of the client and the dynamics of the treatment.",
+    "secondQuestion": "Do I need to prepare for the Belly Revolution massage?",
+    "secondAnswer": "No special preparation is required for the Belly Revolution massage. It is recommended to come in comfortable clothing and avoid heavy meals shortly before the treatment to feel as comfortable as possible.",
+    "thirdQuestion": "How far in advance should I schedule my appointment?",
+    "thirdAnswer": "It is recommended to schedule your appointment at least one week in advance to ensure availability."
+  },
+  "aboutComp": {
+    "title": "About the Practitioner",
+    "bellyDescr": "Dijana Tesla is a certified Belly Revolution practitioner with years of experience in energy therapy. Her mission is to help people release tension, improve energy flow, and achieve inner balance through this transformative technique.",
+    "barsDescr": "Dijana Tesla is a certified Access Bars practitioner with years of experience in energy therapy. Her mission is to help people find inner peace, balance, and release stress through this transformative technique.",
+    "testTextBelly": "My metabolism has kicked in... my stomach is no longer tight and bloated... I look forward to the next massage.",
+    "testTextBars": "I sleep more peacefully and feel less tense. See you soon.",
+    "moreTest": "Read more reviews"
+  },
+  "contact": {
+    "title": "Schedule an Appointment",
+    "text": "Submit a request for an appointment, and someone will contact you to arrange the details.",
+    "contactForm": {
+      "toastSuccess": "Message successfully sent, someone will contact you shortly.",
+      "toastError": "There was an error sending the message. Please try again.",
+      "name": "Name",
+      "phoneNumber": "Phone Number",
+      "type": "Type of Massage",
+      "message": "Would you like to add anything?",
+      "button": "Schedule"
+    },
+    "terminPicker": {
+      "title": "Choose periods for scheduling appointments",
+      "subtitleFirst": "Book a package of 5 Belly Revolution treatments on March 8th or 9th and get a 50% discount!",
+      "subtitleSecond": "The appointment can be on other days or months, the only requirement is that the booking is made on March 8th or 9th."
+    }
+  },
+  "fullGuide": {
+    "title": "You’ve jumped the queue",
+    "subtitle": "I’m sending the rest to you quickly, just need to print them. Check your inbox in a minute.",
+    "subtitleSecond": {
+      "firstPart": "Until then, you can look at the rest of the",
+      "link": "site",
+      "secondPart": "you will be redirected to"
+    }
+  },
+  "cookies": {
+    "text": "This website uses cookies to provide you with a better user experience.",
+    "button": "I accept"
+  }
+}
